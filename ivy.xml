@@ -1,0 +1,10 @@
+<ivy-module version="2.0">
+    <info organisation="org.apache" module="hello-ivy"/>
+    <dependencies>
+
+      <dependency org="com.sun.xml.ws" name="jaxws-tools" rev="2.3.0">
+          <artifact name="jaxws-tools" type="pom" ext="pom"/>
+      </dependency>
+
+    </dependencies>
+</ivy-module>
