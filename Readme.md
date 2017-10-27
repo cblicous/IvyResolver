@@ -4,7 +4,7 @@ Downloads Jar dependencies into a folder
 
 ## Prerequisites :
 
-Install ant and move ivy 2.4 (in the install dir) to your ant path (/Users/<name>/.ant/lib) (OSX)
+Install ant and move ivy 2.4 (from the provided install dir) to your ant path (/Users/NAME/.ant/lib) (OSX)
 
 
 ## Running
