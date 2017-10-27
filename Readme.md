@@ -1,15 +1,14 @@
-Small ivy Resolver
+# Small ivy Resolver
 
 Downloads Jar dependencies into a folder
 
-Prerequisites :
+## Prerequisites :
 
-Install ant and have ivy 2.5 on your ant path (/Users/<name>/.ant/lib)
+Install ant and move ivy 2.4 (in the install dir) to your ant path (/Users/<name>/.ant/lib) (OSX)
 
 
-Running
-
+## Running
 - Update build.xml with your required dependencies
 - run "ant resolve"
-- $$$ profit
-- run ant clean to clean 
+- $$$ profit (see lib/default)
+- run ant clean to clean
